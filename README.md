@@ -27,14 +27,5 @@ Things you may want to cover:
 
 * ...
 
-## Omniauth google oauth2
-Note: If you are using this app for your organization create and configure your own google app. 
-
-In our case:
-```
-Both dev and production app is created from faruk@nascenia.com.
-Dev app name: TimeTracker production -> Nascenia Time Tracker Dev
-Production app name: TimeTracker production -> Nascenia Time Tracker
-```
 
 ### Thank you.
